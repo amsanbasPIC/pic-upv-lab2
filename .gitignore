@@ -12,3 +12,13 @@ tests/
 base_code.py
 .vscode/
 Context.md
+
+.cache/
+.venv/
+__pycache__/
+*.h5
+*.npz
+
+.cache/
+.venv/
+*.npz
